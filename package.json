@@ -1,4 +1,3 @@
-// package.json
 {
   "name": "nuejs",
   "version": "1.0.0",
@@ -8,9 +7,9 @@
     "build": "nue build --root ./_src --out ./dist --prod"
   },
   "devDependencies": {
-    "nuekit": "^0.1.0" // Consider updating to the latest version of nuekit if needed
+    "nuekit": "^0.1.0"
   },
   "engines": {
-    "node": ">=18.0.0" // Specify Node.js version compatibility
+    "node": ">=18.0.0"
   }
 }
