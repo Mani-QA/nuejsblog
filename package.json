@@ -4,7 +4,7 @@
   "description": "Nue JS Blog",
   "private": true,
   "scripts": {
-    "build": "nue build --root ./_src --prod"
+    "build": "nue build --root ./_src"
   },
   "devDependencies": {
     "nuekit": "^1.0.0-RC.3"
