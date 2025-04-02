@@ -7,7 +7,7 @@
     "build": "nue build --root ./_src --out ./dist --prod"
   },
   "devDependencies": {
-    "nuekit": "^0.1.0"
+    "nuekit": "^1.0.0-RC.3"
   },
   "engines": {
     "node": ">=18.0.0"
