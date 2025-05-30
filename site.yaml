@@ -8,37 +8,37 @@ native_css_nesting: true
 inline_css: true
 sections: true
 
-title_template: "Emma Bennet / %s"
-og_image: /img/og_emma.png
-author: Emma Bennet
+title_template: "ManiG / %s"
+og_image: /img/og_manig.png
+author: ManiG
 favicon: /img/favicon.jpg
-description: Minimalist, designer, and UX developer
+description: QA Manager & Curious about NueJs
 port: 8083
 
 # OG image
-origin: https://simple-blog.nuejs.org
+origin: https://nuejs.pages.dev
 og: /img/og.jpg
 
 
 navigation:
   header:
-    - Emma Bennet: /
+    - ManiG: /
     - Contact: /contact/
 
   footer:
-    - © Emma Bennet: /
+    - © ManiG: /
 
     - image: /img/twitter.svg
-      url: //x.com/tipiirai
+      url: //x.com/meetmanig
       alt: Twitter (X) profile
       size: 22 x 22
 
     - image: /img/github.svg
-      url: //github.com/nuejs/nue/
+      url: //github.com/Mani-QA/nuejsblog
       alt: Github Projects
       size: 22 x 22
 
     - image: /img/linkedin.svg
-      url: //linkedin.com/in/tipiirai
+      url: //linkedin.com/in/manivannang
       alt: LinkedIn profile
       size: 22 x 22
