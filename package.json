@@ -5,13 +5,13 @@
   "private": true,
   "scripts": {
     "dev": "nue hot",
-    "build": "nue build --dist public",
+    "build": "nue build",
     "start": "nue serve"
   },
   "devDependencies": {
-    "nuekit": "^1.0.0-RC.3"
+    "nuekit": "^1.0.0-RC.4"
   },
   "engines": {
-    "node": ">=18.0.0"
+    "node": ">=20.8.0"
   }
 }
