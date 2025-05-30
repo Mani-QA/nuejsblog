@@ -6,7 +6,7 @@ title: Contact me
 
 [.stack]
   # Contact me
-  I'm currently available for hire
+  If you want to Connect and talk anything about Tech
   
   [contact-me]
 
