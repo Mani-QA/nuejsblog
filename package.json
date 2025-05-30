@@ -4,7 +4,9 @@
   "description": "Nue JS Blog",
   "private": true,
   "scripts": {
-    "build": "nue build --root ./_src"
+    "dev": "nue hot",
+    "build": "nue build --dist public", // Example: Builds to a 'public' directory
+    "start": "nue serve"
   },
   "devDependencies": {
     "nuekit": "^1.0.0-RC.3"
